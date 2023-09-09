@@ -10,6 +10,7 @@ import {
   
 } from "react-router-dom";
 
+
 function App() {
   return (
     <>
@@ -21,7 +22,7 @@ function App() {
           <Routes>
             <Route exact path="/" element={<Home />} />
             <Route exact path="/about" element={<About />} /> 
-          </Routes>    
+          </Routes>
 
         </div>
       </BrowserRouter>

@@ -1,9 +1,10 @@
 import React from 'react'
+import University from './University'
 
 const Home = () => {
   return (
-    <div>
-      This is home
+    <div>      
+      <University/>
     </div>
   )
 }

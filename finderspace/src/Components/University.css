@@ -1,0 +1,36 @@
+.container {
+    margin: 0 !important;
+    margin-right: 0 !important;
+}
+.row {
+    width: 100vw !important;
+}
+
+.col {
+    background-color: rgb(105, 105, 177);
+}
+
+.courses {
+}
+
+
+
+.university-image {
+    max-height: 20rem;
+    margin-top: 4%;
+    border-radius: 10px;
+    filter: drop-shadow(15px 15px 17px  rgb(13, 114, 114));
+    
+    
+}
+
+#university-name {
+    display: inline-block;
+    margin-top: 0%;
+    width: 60%;
+}
+
+.card {
+    float:right;
+    margin-right: 4% !important ;
+}
