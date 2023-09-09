@@ -173,7 +173,7 @@
     display: flex;
     color: #fff;
     align-items: center;
-    justify-content: start;
+    /* justify-content: start; */
     margin-top: 1px;
     cursor: pointer;
     gap: 10px;
